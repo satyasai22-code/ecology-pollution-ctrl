@@ -1,0 +1,21 @@
+{
+  "name": "ecology_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "express-sanitizer": "^1.0.5",
+    "firebase": "^7.4.0",
+    "nodemon": "^1.19.4",
+    "passport-firebase-auth": "0.0.0-beta.1"
+  }
+}
